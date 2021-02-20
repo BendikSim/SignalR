@@ -1,3 +1,3 @@
 # SignalR
-Asp.NET core
+Asp.NET Core
 Microsoft tutorial
